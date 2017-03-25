@@ -7,7 +7,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "dependencies": { 
     "pg": "6.1.0",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heroku/node-js-getting-started.git"
+    "url": "git+https://github.com/sundarganeshk/newapp.git"
   },
   "keywords": [
     "node",
@@ -26,9 +26,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/heroku/node-js-getting-started/issues"
+    "url": "https://github.com/sundarganeshk/issues"
   },
-  "homepage": "https://guarded-savannah-36896.herokuapp.com/cool",
+  "homepage": "https://guarded-savannah-36896.herokuapp.com/",
   "devDependencies": {},
   "author": ""
 }
